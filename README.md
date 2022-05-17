@@ -29,6 +29,7 @@
 -----------------------------------
   ### Links and Screenshots go here
   ![The basic functionality](./JATE%20Screenshot.png "Screenshot")
+  ##Link: (https://graeme-jate-editor.herokuapp.com/)
 
   <a id="contributors"></a>
   ## Contribution Credits
